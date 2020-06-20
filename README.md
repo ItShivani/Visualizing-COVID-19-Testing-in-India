@@ -5,4 +5,12 @@ This chloropleth map illustrates the number of positive outcomes of all the test
 
 Drawbacks: 
 Union Territories and Jammu and Kashmir are not represented well.
-Link to database used : https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=StatewiseTestingDetails.csv
+
+Link to database used : 
+https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=StatewiseTestingDetails.csv
+
+Libraries required:
+geopandas
+pandas
+matplotlib
+numpy
