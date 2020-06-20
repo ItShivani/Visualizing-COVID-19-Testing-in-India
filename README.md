@@ -5,7 +5,7 @@ We can conclude that Maharashtra, Telangana,Gujarat,Madhya Pradesh have a high C
 This mapping should be done district wise as well so testing can be effectively increased in certain areas. 
 
 Drawbacks: 
-Union Territories and Jammu and Kashmir are not represented well.
+Union Territories and Jammu and Kashmir are not represented well due to faults in the shape files.
 
 Link to database used : 
 https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=StatewiseTestingDetails.csv
